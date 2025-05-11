@@ -1,4 +1,4 @@
-# Todo App
+# ToDo-UIKit
 [![Swift](https://img.shields.io/badge/Swift-5-blue.svg)](https://swift.org)
 [![Xcode](https://img.shields.io/badge/Xcode-13.0-blue.svg)](https://developer.apple.com/xcode)
 [![iOS](https://img.shields.io/badge/iOS-15.2-blue.svg)](https://developer.apple.com/macOS)
@@ -27,5 +27,3 @@ This application has been made following the Apple documentation: [App dev train
 
 ## Demo
 https://user-images.githubusercontent.com/20024632/163585832-3b6111c8-737f-4743-a3f9-7e93136c1306.mp4
-
-# ToDo-UIKit
